@@ -1,0 +1,14 @@
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/bin/Debug/net7.0/HomeWork1
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/bin/Debug/net7.0/HomeWork1.deps.json
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/bin/Debug/net7.0/HomeWork1.runtimeconfig.json
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/bin/Debug/net7.0/HomeWork1.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/bin/Debug/net7.0/HomeWork1.pdb
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/HomeWork1.AssemblyInfoInputs.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/HomeWork1.AssemblyInfo.cs
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/HomeWork1.csproj.CoreCompileInputs.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/HomeWork1.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/refint/HomeWork1.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/HomeWork1.pdb
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/HomeWork1.genruntimeconfig.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1/obj/Debug/net7.0/ref/HomeWork1.dll

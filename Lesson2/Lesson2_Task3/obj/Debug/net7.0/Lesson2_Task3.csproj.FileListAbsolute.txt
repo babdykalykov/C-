@@ -1,0 +1,14 @@
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/Lesson2_Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/Lesson2_Task3.AssemblyInfoInputs.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/Lesson2_Task3.AssemblyInfo.cs
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/Lesson2_Task3.csproj.CoreCompileInputs.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/bin/Debug/net7.0/Lesson2_Task3
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/bin/Debug/net7.0/Lesson2_Task3.deps.json
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/bin/Debug/net7.0/Lesson2_Task3.runtimeconfig.json
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/bin/Debug/net7.0/Lesson2_Task3.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/bin/Debug/net7.0/Lesson2_Task3.pdb
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/Lesson2_Task3.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/refint/Lesson2_Task3.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/Lesson2_Task3.pdb
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/Lesson2_Task3.genruntimeconfig.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lesson2_Task3/obj/Debug/net7.0/ref/Lesson2_Task3.dll

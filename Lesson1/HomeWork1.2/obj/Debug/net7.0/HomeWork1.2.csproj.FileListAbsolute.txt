@@ -1,0 +1,4 @@
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1.2/obj/Debug/net7.0/HomeWork1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1.2/obj/Debug/net7.0/HomeWork1.2.AssemblyInfoInputs.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1.2/obj/Debug/net7.0/HomeWork1.2.AssemblyInfo.cs
+/Users/babdykalykov/Documents/DevOps/C#/Lesson1/HomeWork1.2/obj/Debug/net7.0/HomeWork1.2.csproj.CoreCompileInputs.cache
