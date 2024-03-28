@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lekture2.3/1.0.0": {
+        "runtime": {
+          "Lekture2.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lekture2.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

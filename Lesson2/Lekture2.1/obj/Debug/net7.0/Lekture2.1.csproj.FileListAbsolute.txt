@@ -1,0 +1,14 @@
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/Lekture2.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/Lekture2.1.AssemblyInfoInputs.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/Lekture2.1.AssemblyInfo.cs
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/Lekture2.1.csproj.CoreCompileInputs.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/bin/Debug/net7.0/Lekture2.1
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/bin/Debug/net7.0/Lekture2.1.deps.json
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/bin/Debug/net7.0/Lekture2.1.runtimeconfig.json
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/bin/Debug/net7.0/Lekture2.1.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/bin/Debug/net7.0/Lekture2.1.pdb
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/Lekture2.1.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/refint/Lekture2.1.dll
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/Lekture2.1.pdb
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/Lekture2.1.genruntimeconfig.cache
+/Users/babdykalykov/Documents/DevOps/C#/Lesson2/Lekture2.1/obj/Debug/net7.0/ref/Lekture2.1.dll
